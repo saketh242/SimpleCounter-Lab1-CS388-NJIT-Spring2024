@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleCounter</string>
+    <string name="btn_add_1">ADD 1</string>
+    <string name="textview_start_val">0</string>
+    <string name="upgrade_btn_txt">Upgrade</string>
+    <string name="reset">Reset</string>
+    <string name="reset_button">reset button</string>
+    <string name="add_number_button">add number button</string>
+</resources>
+
+

@@ -29,7 +29,7 @@ The following **stretch** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='walkthrough.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+<img src='walthrough.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Licecap https://www.cockos.com/licecap/

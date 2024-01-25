@@ -1,4 +1,4 @@
-# Android Prework - *PreWork*
+# Android Lab 1 - *SimpleCounter*
 
 Submitted by: **Saketh Puramsetti**
 

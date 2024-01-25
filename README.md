@@ -2,7 +2,7 @@
 
 Submitted by: **Saketh Puramsetti**
 
-**PreWork** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**SimpleCounter** is an android app that updates a counter each time a button is clicked and users can upgrade a counter. 
 
 Time spent: **3** hours spent in total
 

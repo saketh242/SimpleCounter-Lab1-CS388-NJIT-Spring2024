@@ -41,13 +41,13 @@ class MainActivity : AppCompatActivity() {
             if (counter/currHundred>0){
                 currHundred+=100
                 upgradeBtn.visibility= View.VISIBLE
-                upgradeBtn.setOnClickListener{
-                    increment++
-                    upgradeBtn.visibility= View.INVISIBLE
-                    Toast.makeText(it.context, "Numbers increment by $increment from now", Toast.LENGTH_SHORT).show();
-                }
-
             }
+        }
+
+        upgradeBtn.setOnClickListener{
+            increment++
+            upgradeBtn.visibility= View.INVISIBLE
+            Toast.makeText(it.context, "Numbers increment by $increment from now", Toast.LENGTH_SHORT).show();
         }
     }
 }
